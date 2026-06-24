@@ -1,0 +1,8 @@
+Python 
+pandas 
+NumPy 
+SciPy (FFT/stats) 
+scikit-learn 
+XGBoost 
+Matplotlib 
+Seaborn
